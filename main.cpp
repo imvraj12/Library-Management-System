@@ -22,7 +22,7 @@ namespace variables
     vector<string> name_books;
     vector<int> quantity_books;
 
-    vector<string> names_student={"Vanshraj","Likita","Gagan","Harsh","Satyam"};
+    vector<string> names_student={"Vanshraj","Jatin","Gagan","Harsh","Satyam"};
     vector<int> reg_no_students={12217,12210,12218,12219,12220};
     vector<int> no_issue_books_students={2,5,1,4,3};
 
